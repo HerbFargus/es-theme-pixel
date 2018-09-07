@@ -1,20 +1,22 @@
-Theme 'pixel' v1.7 - 05-29-2016 by Rookervik
+Theme 'pixel' v1.9.3 - 11-09-2016 by Rookervik
+[Theme 'pixel' unofficial v2.0 - 09-07-2018 by The Gemsbok]
 
-Thanks to muriani for the super-sexy Sega CD logo! 
+Thanks to muriani for the super-sexy Sega CD logo!
 Thanks to Omnija for helping me fix some code errors.
+[Thanks to Evan Amos, whose public domain console photography was used as the only reference for all of The Gemsbok's pixel art additions to this theme.]
 
 
 Updates:
-- May 29th, 2016: Added AGS, Steam, and Desktop systems.
-- April  3rd, 2016: Added support for Pipplware.
 
+[- 09/07/2018: The Gemsbok: added own art of Color TV-Game, 3DS, Wii U, Switch, PS3, Vita, PS4, Xbox, Xbox 360, Xbox One, Telstar, Odyssey, CD-i, and PC-FX; adjusted many system colors; adjusted positions of many theme elements; and standardized all console descriptions.]
 
-
-
-
-
-
-
+- 11/09/2016: Added Stratagus, SuperGrafx, Oric, Channel F, Mega-CD, and BBC Micro.
+- 10/26/2016: Added SNK MVS and PC Engine CD-ROM. Renamed pcecd to pce-cd and tg16 to tg-16.
+- 10/25/2016: Added European/Japanese Super Nintendo.
+- 09/01/2016: Added TI-99/4A.
+- 08/22/2016: Added TRS-80.
+- 05/29/2016: Added AGS, Steam, and Desktop systems.
+- 04/03/2016: Added support for Pipplware.
 
 
 

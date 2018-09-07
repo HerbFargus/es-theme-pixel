@@ -9,10 +9,10 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>788dc2</color>
+			<color>00cc99</color>
 			<path>./../art/systemback.png</path>
 		</image>
-		
+
 		<image name="console_overlay" extra="true">
 			<tile>false</tile>
 			<pos>0.5 0.5</pos>
@@ -20,16 +20,16 @@
 			<maxSize>0.7 0.7</maxSize>
 			<path>./console.png</path>
 		</image>
-		
+
 		<image name="logo">
 			<path>./logo.png</path>
         </image>
-		
+
 		<helpsystem name="help">
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 		</helpsystem>
-		
+
 	</view>
 
 	<view name="basic, detailed">
@@ -43,13 +43,13 @@
 			<maxSize>0.315 0.126</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
-		
+
 		<image name="background" extra="true">
 			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>788dc2</color>
+			<color>00cc99</color>
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -59,8 +59,8 @@
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./../art/border_simple.png</path>
-		</image>		
-	
+		</image>
+
 		<textlist name="gamelist">
 			<pos>0.034 0.235</pos>
 			<size>0.933 0.647</size>
@@ -68,29 +68,29 @@
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
 			<selectorColor>22283780</selectorColor>
-			<selectedColor>0099ff</selectedColor>
+			<selectedColor>00cc99</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>1</forceUppercase>
 		</textlist>
-		
+
 	</view>
 
 	<view name="detailed">
-	
+
 		<image name="logo">
 			<path>./logo.png</path>
 			<pos>0.274 0.114</pos>
 			<maxSize>0.418 0.115</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
-		
+
 		<image name="background" extra="true">
 			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>788dc2</color>
+			<color>00cc99</color>
 			<path>./../art/background.png</path>
 		</image>
 
@@ -100,8 +100,8 @@
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./../art/border.png</path>
-		</image>		
-	
+		</image>
+
 		<textlist name="gamelist">
 			<pos>0.033 0.266</pos>
 			<size>0.483 0.611</size>
@@ -109,33 +109,33 @@
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.03</fontSize>
 			<selectorColor>222837</selectorColor>
-			<selectedColor>0099ff</selectedColor>
+			<selectedColor>00cc99</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>0</forceUppercase>
 		</textlist>
-		
+
 
 		<image name="Bottom Console Image" extra="true">
 			<tile>false</tile>
-			<pos>0.880 0.788</pos>
+			<pos>0.860 0.778</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.25 0.25</maxSize>
 			<path>./console.png</path>
 		</image>
 
 		<text name="System_Desc" extra="true">
-			<text>Sega Game Gear. 1990. 32 colors at 160x144 pixels.</text>
+			<text>The Sega Game Gear released October 6, 1990. It displays up to 160x144 pixels.</text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.200 0.204</size>
-			<pos>0.569 0.677</pos>
+			<pos>0.554 0.677</pos>
 			<color>ffffff</color>
 			<fontPath>./../art/font.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 			<alignment>center</alignment>
-		</text>	
+		</text>
 
 
 	</view>
-	
+
 </theme>
